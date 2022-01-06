@@ -1,0 +1,133 @@
+body{
+    font-family: 'Acme', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+margin: 0%;
+padding-top: 6%;
+}
+h1{
+    font-size: 38px;
+}
+.headings{
+    display: flex;
+    padding-left: 10%;
+}
+.headings img{
+    width: 50%;
+    padding-left: 30%;
+}
+#Center{
+   text-align: center;
+}
+.Mission{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.Mission img{
+    width: 50%;
+}
+#x{
+    box-sizing: border-box;border-radius: 5%;
+    background-color: #edf5f6;
+    text-align: center;
+    margin-right: 20px;
+}
+#xx{
+    box-sizing: border-box;border-radius: 5%;
+    background-color: #ffeeee;
+    text-align: center;
+    margin-right: 20px;
+}
+#xxx{
+    box-sizing: border-box;border-radius: 5%;
+    background-color: #fff4d6;
+    text-align: center;
+}
+.Developer{
+    text-align: left;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+.Developer img{
+    width: 80%;
+}
+.Website{
+    display: flex;
+    padding-left: 10%;
+   padding-right: 8%;
+    padding-bottom: 3%;
+}
+.Website img{
+    width: 59%;
+    padding-right: 40px;
+}
+.Download{
+    display: flex;
+    padding-right: 10%;
+    text-align: center;
+}
+.Download img{
+    width: 50%;
+    padding-left: 120px;
+    padding-right: 50px;
+}
+#Right
+{
+    text-align: right;
+}
+#Text-Hight{
+    padding-top: 3%;
+}
+#ba{
+    background-color: #ff5959;
+    font-size: 22px;
+    color: white;
+    border-radius: 4px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
+#text-colour{
+    color: rgb(41, 11, 6);
+    padding-left: 2%;
+}
+#text-colour-red-x{
+    color: rgb(252, 76, 76);
+}
+#text-colour-y{
+    color: black;
+}
+.box{
+    border-left: 7px solid;
+    padding-right: 2%;
+    color: rgb(252, 76, 76);
+}
+#text-colour-red{
+    color: rgb(255, 75, 75);
+    padding-left: 2%;
+}
+#colour{
+    color: rgb(253, 74, 54);
+}
+#Developer-Text{
+    padding-top: 3%;
+}
+#Down-Text{
+padding-top: 22px;
+}
+#f-colour{
+    color: #e5ff00;
+}
+.footer{
+   margin-left: 8%;
+   margin-right: 8%;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+{
